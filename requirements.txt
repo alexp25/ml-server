@@ -1,0 +1,6 @@
+flask
+gevent
+numpy
+matplotlib
+tensorflow
+sklearn
